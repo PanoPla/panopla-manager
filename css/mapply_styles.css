@@ -1,0 +1,30 @@
+#wpcontent {
+  margin-left:160px;
+}
+
+.ui.segment {
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  margin-top: 10%;
+}
+.navbar {
+  height: 80px;
+  border-bottom: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.logo {
+  padding: 15px;
+  display: block;
+  margin-left: 40px;
+}
+.instructions {
+  margin-top:5px;
+}
+hr {
+  margin:15px 0;
+  border-top: 1px solid #F1F1F1;
+  clear:both;
+}
