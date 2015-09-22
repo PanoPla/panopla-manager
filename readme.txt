@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: PanoPla
-Donate link: http://example.com/
-Tags: comments, spam
+Donate link: http://panopla.com/
+Tags: vr, virtualreality, googlecardboard, google, pano, krpano, panopla, cms, editor, vtour, spherical, sphere
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
