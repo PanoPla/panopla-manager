@@ -7,7 +7,7 @@ function ppm_handler($atts) {
     die();
 
     $pano = "<style>#ppm_viewer{width: 100% !important; height: 100% !important;}</style>";
-    $pano .= "<iframe id='ppm_viewer' src='http://panopla.com/pano/" $atts;
+    $pano .= "<iframe id='ppm_viewer' src='http://panopla.com/pano/";
     $pano .= "'></iframe>";
 
     return $pano;
