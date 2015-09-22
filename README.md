@@ -49,6 +49,14 @@ The `iframe` that is returned is complete, and the pano is embedded in your site
 <iframe id="ppm_viewer" height="400" width="600" src="http://panopla.com/pano/22"></iframe>
 ```
 
+You can enjoy your panos on your own site now.
+
+## Account
+
+Q. Do you need a PanoPla account to use this plugin?
+
+A. No, if you find a pano you like, you can embed it on your site.
+
 ## License
 
 ```
