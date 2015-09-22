@@ -16,4 +16,5 @@ require_once("pano.php");
 add_shortcode("ppm", "ppm_handler");
 
 // Activiation Hook
-register_activation_hook( __FILE__, 'ppm_install' );
+// register_activation_hook( __FILE__, 'ppm_install' );
+// There is nothing being stored in the database right now
