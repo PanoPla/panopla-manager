@@ -9,7 +9,7 @@ Author: PanoPla
 Author URI: http://www.panoplay.net
 */
 
-require_once("install.php");
+require_once("ppminstall.php");
 require_once("pano.php");
 
 // Shortcodes
