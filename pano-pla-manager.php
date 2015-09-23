@@ -4,7 +4,7 @@
 Plugin Name: PanoPlaManager
 Plugin URI: http://wordpress.org/plugins/PanoPlaManager/
 Description: Embed a pano on your site
-Version: 0.1
+Version: 0.2
 Author: PanoPla
 Author URI: http://www.panoplay.net
 */
