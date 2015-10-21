@@ -13,7 +13,7 @@ function ppm_handler($atts = array(), $out = FALSE) {
     $args = shortcode_atts( $args, $atts, 'ppm' );
 
     $pano .= "<iframe id='ppm_viewer' height='" . $args['height'] .
-             "' wight='" . $args['width'] . "' src='https://panopla.com/pano/"
+             "' width='" . $args['width'] . "' src='https://panopla.com/pano/"
              . $args['pano'] . "/embedded'></iframe>";
 
     return $pano;
